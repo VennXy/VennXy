@@ -19,5 +19,5 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=WaiYanHub&show_icons=true&theme=radical" alt="WaiYanHub's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WaiYanHub&show_icons=true&theme=radical" alt="VennXy's GitHub stats" />
 </p>
